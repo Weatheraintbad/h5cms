@@ -1,6 +1,6 @@
 <div align="center">
 
-  # H5活动管理平台
+  # H5活动内容管理平台
 
 </div>
 
