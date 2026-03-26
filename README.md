@@ -1,10 +1,28 @@
 <div align="center">
 
-  # H5活动内容管理平台
+<img width="256" height="256" alt="webicon-iOS-Dark-256x256@1x" src="https://github.com/user-attachments/assets/62ae4004-593c-4d60-9cd2-cce0c3f74cef" />
+
+  # H5活动管理系统
 
 </div>
 
-一个基于React和Supabase构建的全栈H5活动创建与管理系统，支持可视化拖拽编辑活动页面，实时数据统计分析，以及多角色权限管理。该项目专为佛山传媒文旅集团设计，用于高效管理各类营销活动、抽奖活动、用户调研等H5活动。
+一个基于React和Supabase构建的全栈H5活动创建与管理系统，支持可视化拖拽编辑活动页面，实时数据统计分析，以及多角色权限管理。为佛山传媒文旅集团设计，用于高效管理各类营销活动、抽奖活动、用户调研等H5活动。
+
+<div align="center">
+
+<img width="640" height="395" alt="ec4d1e3f0baaf32d770273a39295aaa4中" src="https://github.com/user-attachments/assets/8a5cb447-8bca-4724-8b49-e67920300095" />
+
+登录页
+
+<img width="640" height="395" alt="f96bf72c5b5af7af3d55755f7fdb5145中" src="https://github.com/user-attachments/assets/14d2fa22-223b-4e91-8ef7-4d4d60882315" />
+
+首页
+
+<img width="640" height="395" alt="120ed593add7ff128d2e3b4e87128e56中" src="https://github.com/user-attachments/assets/34201e09-7389-4c45-8dc9-f146bfc92313" />
+
+可视化编辑
+
+</div>
 
 具有以下优势：
 
